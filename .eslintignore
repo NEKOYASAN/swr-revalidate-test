@@ -1,0 +1,9 @@
+node_modules
+**/.next/**
+**/_next/**
+**/dist/**
+**/.husky/**
+**/.serverless/**
+**/.serverless_nextjs/**
+src/api/$api.ts
+src/licenses/licenses.json
